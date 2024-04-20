@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": 84.9667,
+    "lat": 56.5
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "облачно с прояснениями",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": -0.81,
+    "feels_like": -5.28,
+    "temp_min": -2.25,
+    "temp_max": -0.4,
+    "pressure": 1012,
+    "humidity": 78
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4,
+    "deg": 320
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1713579609,
+  "sys": {
+    "type": 2,
+    "id": 2091123,
+    "country": "RU",
+    "sunrise": 1713567609,
+    "sunset": 1713620249
+  },
+  "timezone": 25200,
+  "id": 1489425,
+  "name": "Томск",
+  "cod": 200
+}
